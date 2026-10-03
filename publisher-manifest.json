@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7664e25b2598bf27c02571d6",
+  "owner": "ravpnhu8u",
+  "repo": "page-e365e138c7dc404a2d7db125",
+  "title": "Miaoix",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e365e138c7dc404a2d7db125",
+      "a": "Miaoix",
+      "b": "",
+      "entity": "Miaoix",
+      "brand": "Miaoix",
+      "separator": "",
+      "path": "index.html",
+      "hash": "be66e0cecd09fa8187c4c7a0bd5b1b54e747cca4be91fc1e53ac240ba393f94d",
+      "content": {
+        "keyword1": "Miaoix",
+        "keyword2": "",
+        "primary_entity": "Miaoix",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Miaoix 提供机场订阅与 VPN 客户端下载指引，覆盖网络加速、流媒体解锁与游戏线路，帮助个人与团队完成选套餐、导入配置与日常使用。",
+          "AI_DESCRIPTION": "Miaoix 提供机场订阅与 VPN 客户端下载指引，覆盖网络加速、流媒体解锁与游戏线路，帮助个人与团队完成选套餐、导入配置与日常使用。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*:before,*:after{box-sizing:border-box}html,body{margin:0;padding:0}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#f4f2f7;color:#24183a;line-height:1.7;font-size:16px}a{color:#5e3dcc;text-decoration:none}a:hover{text-decoration:underline}img{max-width:100%}header,footer,.wrap{width:100%}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#24183a;color:#f7f4ff;position:sticky;top:0;z-index:10}header .bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;padding:12px 16px;max-width:1080px;margin:0 auto}header .brand{font-weight:700;font-size:20px;color:#fff}header nav{display:flex;flex-wrap:wrap;gap:12px}header nav a{color:#ece6f8;font-size:14px}main{padding:0 0 48px}.hero{background:linear-gradient(160deg,#ece6f8 0%,#f4f2f7 55%,#fff 100%);padding:36px 0 28px}h1{font-size:28px;line-height:1.35;margin:0 0 12px;color:#4328a0}h2{font-size:22px;margin:0 0 12px;color:#4328a0}h3{font-size:18px;margin:0 0 8px;color:#5e3dcc}p{margin:0 0 12px}.lead{font-size:17px;color:#3d3354}.muted{color:#5c5470}.section{padding:28px 0;border-top:1px solid #e4dcef}.stagger{display:flex;flex-wrap:wrap;gap:20px;align-items:stretch;margin:16px 0}.stagger.reverse{flex-direction:row-reverse}.card,.panel{background:#fff;border:1px solid #e4dcef;border-radius:12px;padding:20px;flex:1 1 280px;min-width:0}.panel{background:#ece6f8;border-color:#d4c6f0}.kicker{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:#5e3dcc;margin-bottom:6px}.steps{counter-reset:step;display:flex;flex-direction:column;gap:14px}.step{background:#fff;border:1px solid #e4dcef;border-radius:12px;padding:16px 16px 16px 64px;position:relative}.step:before{counter-increment:step;content:counter(step);position:absolute;left:16px;top:16px;width:32px;height:32px;border-radius:50%;background:#5e3dcc;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;line-height:32px;text-align:center}.plans{display:flex;flex-wrap:wrap;gap:16px}.plan{flex:1 1 240px;background:#fff;border:1px solid #e4dcef;border-radius:12px;padding:20px;min-width:0}.plan.featured{border:2px solid #5e3dcc;background:#f7f4ff;box-shadow:0 0 0 4px #ece6f8}.price{font-size:26px;font-weight:700;color:#4328a0;margin:8px 0 4px}.annual{font-size:14px;color:#5c5470;margin-bottom:10px}ul{margin:0;padding-left:18px}li{margin:0 0 6px}details{background:#fff;border:1px solid #e4dcef;border-radius:10px;padding:12px 14px;margin:0 0 10px}summary{cursor:pointer;font-weight:600;color:#4328a0}details p{margin:10px 0 0;color:#3d3354}.ad{background:#fff;border:1px dashed #cbbce8;border-radius:10px;padding:14px;margin:10px 0;color:#5c5470;font-size:14px}.links{display:flex;flex-wrap:wrap;gap:10px 16px}.sitemap ul{columns:2;padding-left:18px}footer{background:#24183a;color:#d8d0ea;padding:24px 0;font-size:14px}footer a{color:#ece6f8}@media (max-width:760px){.stagger,.stagger.reverse{flex-direction:column}.sitemap ul{columns:1}h1{font-size:24px}header nav{width:100%}}</style><header><div class=\"bar\"><a class=\"brand\" href=\"#top\">Miaoix</a><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main id=\"top\"><section class=\"hero\"><div class=\"wrap\"><p class=\"kicker\">官方网站</p><h1>Miaoix 官方机场：订阅、加速与客户端下载</h1><p class=\"lead\">Miaoix 面向需要稳定出境网络加速的个人与小团队，提供可按月或按年开通的机场订阅。页面说明套餐差异、使用场景、从获取订阅到导入客户端的配置流程，以及 Clash、Shadowrocket 等常见客户端的下载与导入要点。</p><p class=\"muted\">本站为 Miaoix 信息与指引页。订阅凭证仅在登录后的控制台发放，请勿在不明来源渠道填写账号或导入不明配置。</p></div></section><section class=\"section\" id=\"intro\"><div class=\"wrap\"><div class=\"stagger\"><article class=\"card\"><h2>品牌简介</h2><p>Miaoix 是一套以订阅为核心的网络加速服务。用户按流量与设备数选择套餐后，可在控制台复制订阅地址，导入到常用代理客户端，按节点完成连接。服务覆盖网页浏览、跨境协作、流媒体点播与部分游戏加速，不绑定单一终端。</p><p>节点侧提供普通线路与 IPLC 专线两类资源。基础版侧重日常访问与轻度解锁；旗舰版扩大流量与原生流媒体覆盖，并强化游戏向延迟；团队版面向多设备、高并发与可定制路由的协作环境。</p></article><aside class=\"panel\"><h3>你将在本页完成的事</h3><ul><li>对照三档套餐确认流量、设备与线路权限</li><li>按五步配置流程拿到可导入的订阅</li><li>选择对应系统的客户端并完成更新</li><li>用 FAQ 处理连不上、流量耗尽与流媒体失败</li></ul><p class=\"muted\">Miaoix 不在此页收集账号。所有操作说明均为阅读指引，链接仅跳转本页锚点。</p></aside></div></div></section><section class=\"section\" id=\"plans\"><div class=\"wrap\"><h2>套餐与订阅说明</h2><p>价格按自然月计费，年付为十二个月一次性结算。流量在计费周期内有效，周期结束未用完部分不结转。同时在线设备数按成功握手的终端统计，超出后新连接将被拒绝直至有设备下线。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"muted\">推荐个人主力套餐</p><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></div></section><section class=\"section\" id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><div class=\"stagger\"><article class=\"card\"><h3>跨境办公与资料检索</h3><p>远程会议、代码仓库、学术数据库与云盘同步对稳定会话更敏感。建议优先选择延迟更低的普通国际线路，将系统代理模式设为规则分流，仅对境外域名走订阅，避免内网与国内站点绕路。</p></article><aside class=\"panel\"><h3>流媒体与内容平台</h3><p>基础版覆盖常见点播的基础解锁；旗舰版强调全节点原生解锁，减少因共享出口导致的地区校验失败。播放前请更新订阅、切换对应地区节点，并关闭客户端里可能冲突的旧规则集。</p></aside></div><div class=\"stagger reverse\"><article class=\"card\"><h3>游戏加速</h3><p>对延迟与丢包敏感的对战类游戏，旗舰版提供 IPLC 专线优化。请在客户端中指定游戏进程或 UDP 转发，并避免多开占用同一出口。团队版可用更高带宽节点分担高峰期排队。</p></article><aside class=\"panel\"><h3>多设备与小团队</h3><p>同一订阅可在额度内导入手机、电脑与路由。团队版适合共享工作室出口，并可申请定制分流，把办公域名、研发工具与个人娱乐拆到不同策略组，降低互相抢占带宽的情况。</p></aside></div></div></section><section class=\"section\" id=\"setup\"><div class=\"wrap\"><h2>配置流程（重点）</h2><p>Miaoix 的可用性取决于「套餐生效 → 订阅可拉取 → 客户端规则正确」三件事。请按下列顺序操作，不要跳过更新订阅与选择节点两步。</p><div class=\"stagger\"><div class=\"steps\"><article class=\"step\"><h3>确认套餐并完成开通</h3><p>在控制台选择基础版、旗舰版或团队版，月付或年付生效后即可看到流量与设备额度。未支付成功时不会生成可用订阅，客户端会提示拉取失败。</p></article><article class=\"step\"><h3>复制订阅地址</h3><p>进入「我的订阅」，复制 Clash / 通用订阅链接。地址相当于只读凭证，请勿发到公开群组。若怀疑泄露，在控制台重置链接，旧地址立即失效。</p></article><article class=\"step\"><h3>安装对应客户端</h3><p>桌面端常用 Clash 系或 sing-box 图形前端，iOS 常用 Shadowrocket 等商店应用，Android 常用支持订阅的代理前端。务必从客户端开发者公布的渠道获取安装包，而不是第三方打包站。</p></article><article class=\"step\"><h3>导入并更新配置</h3><p>将订阅粘贴到客户端的「从 URL 导入」或「订阅管理」。导入后先点更新，确认节点列表非空。开启规则模式，保留国内直连，避免所有流量挤在同一隧道。</p></article><article class=\"step\"><h3>选节点、测延迟、再访问</h3><p>按目的地选择节点：浏览与协作选综合延迟低的普通线路；流媒体选标注对应地区且解锁成功的节点；游戏选 IPLC 或游戏优化组。连接成功后再打开目标应用，避免应用在未代理时缓存错误地区。</p></article></div><aside class=\"panel\"><h3>配置时的核对清单</h3><ul><li>系统时间准确，证书校验才能通过</li><li>公司网络若拦截 UDP，改用客户端提供的备选传输</li><li>同一账号不要超过套餐设备上限</li><li>流量耗尽会表现为能连上但网页打不开，需等待下周期或升级</li><li>规则集过旧会导致流媒体误判，保持订阅自动更新</li></ul><p><a href=\"#download\">前往客户端下载与导入说明</a></p></aside></div></div></section><section class=\"section\" id=\"download\"><div class=\"wrap\"><h2>客户端下载与导入</h2><div class=\"stagger reverse\"><article class=\"card\"><h3>官方下载原则</h3><p>Miaoix 提供订阅，不捆绑改装版客户端。请分别下载各系统原版程序，再用本站控制台中的订阅链接导入。若安装包要求关闭安全软件或填写无关账号，应立即停止。</p><p>Windows / macOS：使用支持 Clash 或 sing-box 订阅的图形客户端，导入后选择规则模式。Linux：可用命令行内核配合订阅转换，注意文件权限。</p><p>iOS：在系统商店获取 Shadowrocket 或其他兼容应用后粘贴订阅。Android：选择仍在维护、可手动更新订阅的前端，并允许创建本地 VPN 配置。</p></article><aside class=\"panel\"><h3>导入后建议</h3><ul><li>打开自动更新，间隔不超过 24 小时</li><li>为流媒体、游戏、办公建立不同策略组</li><li>路由器刷入兼容固件时，把订阅放在旁路由，避免主路由单点故障</li><li>出现证书警告时先检查系统时间，而不是盲目关闭校验</li></ul><p><a href=\"#faq\">查看导入失败相关问答</a></p></aside></div></div></section><section class=\"section\" id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>Miaoix 是什么服务，和普通加速器有何不同？</summary><p>Miaoix 是机场订阅服务：你购买的是周期内的流量、设备额度与节点权限，通过标准订阅交给自己安装的客户端使用。它不是锁定单一 App 的「一键加速器」，因此可以在电脑、手机和路由之间按规则分流，也需要你按配置流程完成导入。</p></details><details><summary>如何完成第一次配置并确认已经连上？</summary><p>开通套餐后复制订阅，导入客户端并更新节点，选择一个延迟较低的节点开启系统代理。用浏览器访问需要加速的站点，同时观察客户端流量计数是否增长。若计数为 0，多半是规则未生效或系统代理模式仍为直连。</p></details><details><summary>支持哪些设备？会不会重复扣流量？</summary><p>同一订阅可在套餐设备上限内多开。基础版 3 台、旗舰版 5 台、团队版 20 台。流量按实际走代理的出站字节累计，多设备共享同一流量池，不会因为切换节点而翻倍扣费，但并行下载会更快耗尽额度。</p></details><details><summary>流媒体提示未在服务区或反复转圈怎么办？</summary><p>先更新订阅，改用旗舰版权限下的原生解锁节点，并清空播放 App 的地区缓存后重开。基础版仅承诺基础解锁，热门平台在高峰期可能失败。若所有地区节点均失败，在工单中提交节点名称与大致时间，便于排查出口被标记的问题。</p></details><details><summary>游戏延迟高或频繁掉线应如何选择线路？</summary><p>将游戏进程加入代理列表，优先使用旗舰版 IPLC 或标注游戏优化的节点，关闭其他大流量下载。UDP 被拦截时改用客户端提供的兼容传输。团队版可把游戏与办公拆到不同策略，避免会议抢占对战带宽。</p></details><details><summary>订阅导入失败或节点列表空白如何处理？</summary><p>核对链接是否完整、控制台套餐是否仍在有效期、客户端是否允许 HTTPS 拉取。公司代理或广告拦截插件有时会截断订阅。重置订阅地址后重新导入。仍失败时记录客户端报错原文，通过优先工单（旗舰版与团队版）提交。</p></details><details><summary>年付与月付如何选择？流量用完能否升级？</summary><p>长期使用且额度稳定，年付更省；短期试用或流量波动大，用月付更灵活。周期内可升级到更高档，差额按剩余天数折算的规则以控制台展示为准。降级一般在当前周期结束后生效，以免已占用的设备数超标。</p></details></div></section><section class=\"section\" id=\"ads\"><div class=\"wrap\"><h2>合作信息与展示位</h2><div class=\"ad\">展示位 A：Miaoix 旗舰版年付说明——适合把流媒体与游戏放在同一套订阅里的个人用户，详情见本页套餐。</div><div class=\"ad\">展示位 B：团队版客户经理对接窗口——用于多成员路由定制与高带宽节点评估，请通过控制台工单预约，不在此页提交资料。</div></div></section><section class=\"section\" id=\"friends\"><div class=\"wrap\"><h2>友情链接</h2><p class=\"muted\">以下为站内互链占位，均指向本页锚点，便于审核友链样式与移动端折行。</p><p class=\"links\"><a href=\"#intro\">Miaoix 简介</a><a href=\"#plans\">套餐一览</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">问答中心</a><a href=\"#sitemap\">网站地图</a></p></div></section><section class=\"section\" id=\"sitemap\"><div class=\"wrap\"><h2>网站地图</h2><div class=\"sitemap\"><ul><li><a href=\"#top\">首页顶栏</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐与价格</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#setup\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">展示位</a></li><li><a href=\"#friends\">友情链接</a></li></ul></div></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>Miaoix 官方网站 · 机场订阅与 VPN 客户端下载指引</p><p>内容仅描述套餐、场景与配置步骤。请从客户端原开发渠道获取软件，保护订阅地址。</p><p><a href=\"#top\">返回顶部</a> · <a href=\"#sitemap\">网站地图</a></p></div></footer>",
+          "hash": "84020e766dfc433e3e0f004b9939e778afc0e2eeb5b5f5c49f0f7bbf9b292c7d",
+          "seo": {
+            "title": "Miaoix 官网｜机场订阅、VPN 梯子网络加速与客户端下载",
+            "keywords": "Miaoix,Miaoix机场,Miaoix VPN,机场订阅,客户端下载,网络加速,梯子,加速器,IPLC,Clash,Shadowrocket",
+            "description": "Miaoix 提供机场订阅与 VPN 客户端下载指引，覆盖网络加速、流媒体解锁与游戏线路，帮助个人与团队完成选套餐、导入配置与日常使用。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jinggaocelue.cn",
+    "host": "p-6e957389f7.jinggaocelue.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "jinggaocelue.cn",
+      "url": "https://jinggaocelue.cn/",
+      "label": "超级跑车(CJPC)",
+      "apex": "jinggaocelue.cn",
+      "kind": null,
+      "identity": "jichangl1/page-47f4d2b9bd8df3bc441c23fc"
+    },
+    {
+      "host": "3s5l8i.cn",
+      "url": "https://3s5l8i.cn/",
+      "label": "Miaoix",
+      "apex": "3s5l8i.cn",
+      "kind": null,
+      "identity": "qujuvbnxk/page-b36ee99a3823bc2ec1a31b9a"
+    },
+    {
+      "host": "j8k9ve.cn",
+      "url": "https://j8k9ve.cn/",
+      "label": "Miaoix",
+      "apex": "j8k9ve.cn",
+      "kind": null,
+      "identity": "qeuasaj/page-3e332e12ccd2c5d0d7cccf9a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0f22e78c0ed59e209036eaa0318849a2c9457f37fee31b3c0eb06f3794cc1718",
+    "sitemap.xml": "998a28edc371e48a05d80010bd32ee759e79269ef207e1e843feb6a6479b55c9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f7eb93c409bbf092e10fcaa2550f045659633392795e23661242a764642dbb59",
+    "robots.txt": "cf3b902c4dac77b34109232fa9aa4cc4e65153170eb8e09bac2a52679dde2c00",
+    "bd9f9d0f0c436958b48f00e55f828d31.txt": "4be55edac8fb223d0a988103f75cdaf6751ee49aac204cfe8b409d1e4f1797eb"
+  },
+  "revision": "f615418d4e7bd1f7c4744b3ea20fe62b47e9021996b20bf3b83fb4c9559b80cb"
+}
